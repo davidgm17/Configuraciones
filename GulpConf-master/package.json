@@ -1,0 +1,39 @@
+{
+  "name": "gulp_conf",
+  "version": "1.0.0",
+  "description": "My Gulp workspace",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-cli": "^2.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/register": "^7.0.0",
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-string-replace": "^1.1.2",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "gulp-uglify-es": "^1.0.4",
+    "gulp-util": "^3.0.8",
+    "node-sass": "^4.9.4",
+    "typescript": "^3.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pabloalvessb",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pabloalvessb/GulpConf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pabloalvessb/GulpConf/issues"
+  },
+  "homepage": "https://github.com/Pabloalvessb/GulpConf#readme"
+}
